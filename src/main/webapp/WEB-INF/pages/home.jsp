@@ -8,7 +8,7 @@
 		<meta name="description" content="A one page template very usefuly on any kind of website niche">
 		<meta name="author" content="Bootstrap Wizard">
 		<link rel="shortcut icon" href="http://bootstrapwizard.info/Theme/FullscreenV3.0.0/img/favicon.ico">
-		<title>NimishaSagaram</title>
+		<title>ForSakenFrames</title>
 
 
 
