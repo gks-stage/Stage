@@ -10,8 +10,6 @@
 		<link rel="shortcut icon" href="http://bootstrapwizard.info/Theme/FullscreenV3.0.0/img/favicon.ico">
 		<title>ForSakenFrames</title>
 
-
-
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 		<!-- Google Font -->
@@ -40,9 +38,7 @@
 	</head>
 	
 	<body class="bg-static" data-spy="scroll" data-target=".navbar-custom">
-	
-		
-		<div class="preloader">
+        <div class="preloader">
 			<div class="loader-item">
 				<img src="<c:url value="/resources/images/loading.gif" />" alt="loader">
 			</div>

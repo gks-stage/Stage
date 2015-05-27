@@ -102,7 +102,7 @@ ul.unstyled {
   z-index: -1;
 }
 .bg-static {
-  background: url(../images/bg1t.jpg) no-repeat center center fixed;
+  background: url(../images/bg1.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
