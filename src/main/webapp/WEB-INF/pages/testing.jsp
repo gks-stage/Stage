@@ -35,15 +35,13 @@
     </head>
     <body data-spy="scroll" data-target=".navbar-custom">
         <ul class="cb-slideshow">
-            <li><span>Image 01</span><div><h3>se·ren·i·ty</h3></div></li>
-            <li><span>Image 02</span><div><h3>com·po·sure</h3></div></li>
-            <li><span>Image 03</span><div><h3>e·qua·nim·i·ty</h3></div></li>
-            <li><span>Image 04</span><div><h3>bal·ance</h3></div></li>
-            <li><span>Image 05</span><div><h3>qui·e·tude</h3></div></li>
-            <li><span>Image 06</span><div><h3>re·lax·a·tion</h3></div></li>
+            <li><span>Image 01</span><div><h3>ForsakenFrames</h3></div></li>
+            <li><span>Image 02</span><div><h3>ForsakenFrames</h3></div></li>
+            <li><span>Image 03</span><div><h3>ForsakenFrames</h3></div></li>
+            <li><span>Image 04</span><div><h3>ForsakenFrames</h3></div></li>
+            <li><span>Image 05</span><div><h3>ForsakenFrames</h3></div></li>
+            <li><span>Image 06</span><div><h3>ForsakenFrames</h3></div></li>
         </ul>
-        
-        
         
         <div class="preloader">
 			<div class="loader-item">
@@ -79,14 +77,6 @@
 					<li class="page-scroll"><a href="#icon-box">Audio Albums</a></li>				
 					<li class="page-scroll"><a href="#team">Team</a></li>
 					<li class="page-scroll"><a href="#contact">Contact</a></li>
-					<li class="dropdown">
-						<a href="components.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Admin Panel <span class="caret"></span></a>
-						<ul class="dropdown-menu" role="menu">
-							<li><a href="components.html">Typography</a></li>
-							<li><a href="components.html">Counter</a></li>
-							<li><a href="components.html">Coming Soon</a></li>					
-						</ul>
-					</li>
 				  </ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
@@ -318,6 +308,7 @@
 						</div>
 					</div>
 					
+					
 				</div>
 				<!-- ./featured-list -->
 			
@@ -362,22 +353,22 @@
 				<div class="row">					
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img1.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img1.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img1.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img1.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img2.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img2.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img2.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img2.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img3.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img3.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img3.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img3.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img4.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img4.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img4.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img4.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 				</div>
@@ -386,22 +377,22 @@
 				<div class="row">					
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img5.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img5.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img5.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img5.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img6.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img6.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img6.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img6.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img7.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img7.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img7.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img7.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
 						<div class="pic wow flipInX showdelay2">
-							<a href="images/img8.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img8.jpg" />" alt=""><div class="img_overlay"></div></a>
+							<a href="resources/images/img8.jpg" class="gallery-item"><img class="img-responsive img-thumbnail" src="<c:url value="/resources/images/img8.jpg" />" alt=""><div class="img_overlay"></div></a>
 						</div>
 					</div>
 				</div>
@@ -678,6 +669,7 @@
 		<script src="<c:url value="/resources/js/jqbootstrapvalidation/jqBootstrapValidation.js" />"></script>		
 		<!-- main -->
 		<script src="<c:url value="/resources/js/main.js" />"></script>
+		<!-- Background Script from pachu\fullslider -->
         <script type="text/javascript" src="<c:url value="/resources/js/modernizr.custom.86080.js" />"></script>
     </body>
 </html>

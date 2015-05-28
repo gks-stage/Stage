@@ -2,26 +2,34 @@ package com.eco.stage.controller;
 
 import java.io.IOException;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-public class HelloController {
+public class MainController {
 
+	 private static final Logger logger = LoggerFactory.getLogger(MainController.class);
+	 
 	@RequestMapping(value="/",method = RequestMethod.GET)
 	public String loadHome(ModelMap model) throws IOException {
-		System.out.println("First system println");
+		 logger.info("First system println");
 		model.addAttribute("message", "Spring 3 MVC Hello World");
 		return "testing";
 
 	}
 	@RequestMapping("/main")
 	public String directImages(ModelMap model){
-		System.out.println("inside main");
+		logger.info("inside main");
 		return "home";
 	}
 	
+	@RequestMapping("/admin")
+	public String loadUploader(ModelMap model){
+		logger.info("inside main");
+		return "redirect:/upload";
+	}
 }
