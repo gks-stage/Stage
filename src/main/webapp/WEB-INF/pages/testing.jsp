@@ -82,7 +82,7 @@
 			</div><!-- /.container-fluid -->
 		</nav>
 		<!-- ./navigation -->
-		<br><br><br><br><br><br><br><br>
+		<br><br><br><br><br><br><br><br><br><br><br>
 		<!-- Slider -->	
 		<div id="slider" class="fullSection">
 			<div class="container">
@@ -636,7 +636,7 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="text-center">
-					&copy; 2014 Fullscreen | Bootstrapwizard.info
+					&copy; 2015 E.C.O   |   Stage V 0.0.1
 				</div>
 			</div>
 		</footer>	

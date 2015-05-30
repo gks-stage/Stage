@@ -32,4 +32,10 @@ public class MainController {
 		logger.info("inside main");
 		return "redirect:/upload";
 	}
+	
+	@RequestMapping("/test")
+	public String test(ModelMap model){
+		logger.info("inside main");
+		return "test";
+	}
 }
