@@ -70,7 +70,7 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="top-nav">
 				  <ul class="nav navbar-nav navbar-right">
-					<li class="page-scroll"><a href="#slider">Home</a></li>
+					<li class="page-scroll"><a href="#home">Home</a></li>
 					<li class="page-scroll"><a href="#featured">Featured</a></li>
 					<li class="page-scroll"><a href="#showcase">Showcase</a></li>
 					<li class="page-scroll"><a href="#grid">Grid</a></li>	
@@ -82,6 +82,8 @@
 			</div><!-- /.container-fluid -->
 		</nav>
 		<!-- ./navigation -->
+		<div id="home"></div><br><br><br><br><br><br><br><br><br><br><br>
+		<br><br><br><br><br><br><br><br><br><br><br>
 		<br><br><br><br><br><br><br><br><br><br><br>
 		<!-- Slider -->	
 		<div id="slider" class="fullSection">
@@ -90,11 +92,7 @@
 				<!-- fullscreen-slider -->
 				<div id="fullscreen-slider" class="carousel slide wow bounceIn showdelay4" data-ride="carousel">
 					<!-- Indicators -->
-					  <ol class="carousel-indicators">
-						<li data-target="#fullscreen-slider" data-slide-to="0" class="active"></li>
-						<li data-target="#fullscreen-slider" data-slide-to="1"></li>
-						<li data-target="#fullscreen-slider" data-slide-to="2"></li>
-					  </ol>
+					 
 
 				  <!-- Wrapper for slides -->
 				  <div class="carousel-inner">
@@ -636,7 +634,7 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="text-center">
-					&copy; 2015 E.C.O   |   Stage V 0.0.1
+					&copy; 2015 E.C.O   |   Stage V 0.0.1 (Beta) *Unstable in Development
 				</div>
 			</div>
 		</footer>	
