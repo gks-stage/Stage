@@ -56,7 +56,7 @@ public class UploadController {
 	
 					// Creating the directory to store file
 					String rootPath = System.getProperty("catalina.home");
-					rootPath = "D:/local/";
+					rootPath= rootPath+File.separator+"webapps"+File.separator+"Stage";
 					File dir = new File(rootPath + File.separator + "backgrounds");
 					if (!dir.exists())
 						dir.mkdirs();
