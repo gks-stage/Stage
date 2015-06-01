@@ -5,7 +5,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <title>Fullscreen Background Image Slideshow with CSS3</title>
+        <title>ForSakenFrames</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <meta name="description" content="Fullscreen Background Image Slideshow with CSS3 - A Css-only fullscreen background image slideshow" />
         <meta name="keywords" content="css3, css-only, fullscreen, background, slideshow, images, content" />
@@ -35,12 +35,12 @@
     </head>
     <body data-spy="scroll" data-target=".navbar-custom">
         <ul class="cb-slideshow">
-            <li><span>Image 01</span><div><h3>ForsakenFrames</h3></div></li>
-            <li><span>Image 02</span><div><h3>ForsakenFrames</h3></div></li>
-            <li><span>Image 03</span><div><h3>ForsakenFrames</h3></div></li>
-            <li><span>Image 04</span><div><h3>ForsakenFrames</h3></div></li>
-            <li><span>Image 05</span><div><h3>ForsakenFrames</h3></div></li>
-            <li><span>Image 06</span><div><h3>ForsakenFrames</h3></div></li>
+            <li><span>Image 01</span></li>
+            <li><span>Image 02</span></li>
+            <li><span>Image 03</span></li>
+            <li><span>Image 04</span></li>
+            <li><span>Image 05</span></li>
+            <li><span>Image 06</span></li>
         </ul>
         
         <div class="preloader">
